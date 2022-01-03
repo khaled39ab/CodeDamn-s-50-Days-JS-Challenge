@@ -3,7 +3,7 @@
 // Regular expression check has to have an optional +88 or 01 in the beginning, then an optional space and 10 digits
 // test method of regular expression can be used to validate if the mobile number pattern matches or not
 
-const number = '+880 1876543210';
+const number = '+880 1758033448';
 
 function validateMobile(number) {
     // write your solution here
